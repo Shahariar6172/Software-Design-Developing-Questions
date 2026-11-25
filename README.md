@@ -7,7 +7,9 @@
 **Q1.** [5]
  
 (a) Define software design.
+
 (b) In the case of software, what is the input of the design process?
+
 (c) Name the two basic steps of the design process and describe what each one produces.
  
 **Q2.** [5]
@@ -19,10 +21,15 @@ Explain why modularity and decomposition are needed in large software. Using the
 Define any five of the following design metrics in one or two sentences.
  
 (a) CBO
+
 (b) LCOM
+
 (c) WMC (with McCabe complexity)
+
 (d) RFC
+
 (e) DIT
+
 (f) NOC
  
 **Q4.** [5]
@@ -38,9 +45,13 @@ Calculate **LCOM2** and **LCOM3** for this class. Then explain what the two valu
 Define each of the following architectural styles and give one example where it would be used.
  
 (a) Layered architecture
+
 (b) Event-based architecture
+
 (c) Model-View-Controller (MVC)
+
 (d) Blackboard / Repository
+
 (e) Pipes and Filters
  
 **Q6.** [5]
